@@ -14,3 +14,5 @@ iptables -N LOGGING
 iptables -A INPUT -j LOGGING
 iptables -A LOGGING -j LOG --log-prefix "IPTables-Rejected: "
 iptables -A LOGGING -j REJECT
+
+service rsyslog restart

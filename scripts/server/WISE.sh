@@ -65,3 +65,5 @@ iptables -N LOGGING
 iptables -A INPUT -p icmp -m connlimit --connlimit-above 2 --connlimit-mask 0 -j LOGGING
 iptables -A LOGGING -j LOG --log-prefix "IPTables-Dropped: "
 iptables -A LOGGING -j DROP
+
+service rsyslog restart
