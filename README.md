@@ -7,7 +7,7 @@
 | Florentino Benedictus       | 5025201222 |
 | Muhammad Zufarrifqi Prakoso | 5025201276 |
 
-[Link Miro Kelompok (VLSM Tree, Tabel, Subnetting)](https://miro.com/app/board/uXjVP8hn0Es=/?share_link_id=641116066491)
+[Link Miro Kelompok (VLSM Tree, Tabel, Subnetting)](https://miro.com/app/board/uXjVP8hn0Es=/)
 
 ## Soal Modul 5
 - [Soal](https://docs.google.com/document/d/1b-tRRx2BLu1RxCgXxnoI2lYJbG9E0C08adRppePfHxk/edit)
